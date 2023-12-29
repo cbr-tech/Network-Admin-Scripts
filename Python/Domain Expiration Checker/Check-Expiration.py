@@ -1,11 +1,11 @@
 #####################################################################
-#           Author: Caleb Streit                                    #
+#           Author: cbr-tech                                  #
 #           Date: November 22, 2023                                 #
 #           Description: Check a list of domain names               #
 #           for expiration dates and save to a file.                #
 #####################################################################
 
-# Import dependencies
+# Import dependencies (make sure they are installed already)
 from datetime import datetime
 import csv
 import os.path
